@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360137146173",
+    "project_id": "nammaskillsselfemploymen-b7697",
+    "storage_bucket": "nammaskillsselfemploymen-b7697.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360137146173:android:01b7536f9e347aafac4f54",
+        "android_client_info": {
+          "package_name": "com.example.nammaskillsselfemployment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeq9TrUck_cyPJPZopeY-HBWp_M6sTBdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
